@@ -1,6 +1,6 @@
 matplotlib==3.8.3
 pandas==1.5.3
-protobuf==5.27.2
+protobuf
 Requests==2.32.3
 scikit_learn==1.4.1.post1
 seaborn==0.13.2
