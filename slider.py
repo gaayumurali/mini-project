@@ -4,7 +4,7 @@ import requests
 import pandas as pd
 import random
 
-df = pd.read_csv(r"C:\Users\PC\Documents\Mini Project dataset\movie recommendation dataset\movie dataset.csv")
+df = pd.read_csv("movie dataset.csv")
 
 st.set_page_config(page_title='Movie Recommendation System')
 

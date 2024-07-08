@@ -11,7 +11,7 @@ from google.colab import drive
 drive.mount('/content/drive')
 
 import pandas as pd
-movies=pd.read_csv('/content/drive/MyDrive/movie dataset.csv')
+movies=pd.read_csv('movie dataset.csv')
 movies.tail(5)
 
 movies.describe()
